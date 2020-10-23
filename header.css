@@ -1,0 +1,263 @@
+*{
+    font-family: 微軟正黑體;
+}
+a:link{
+    font-family: 微軟正黑體;
+    text-decoration: none;
+    color: black;
+}
+
+li{
+    list-style: none;
+    margin-top: 10px;
+}
+
+.wrap{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.listdiv{
+    margin-bottom: 50px;
+    /* border: 1px solid #000; */
+}
+
+.listdivQQQ a{
+    font-size: 16px;
+    margin-right: 20px;
+}
+.listdiv img{
+    margin-top: 20px;
+}
+.ll{
+    margin-bottom: 20px;
+}
+.del{
+    margin-left:620px;
+    margin-top:30px;
+}
+.list{
+    margin-right: 20px;
+}
+.listQ{
+    margin-right: 20px;
+}
+.listfirst{
+    margin-left: 450px;
+    margin-right: 20px;
+}
+.listfirstQ{
+    margin-left: 350px;
+    margin-right: 20px;
+}
+.listfirstQQ{
+    margin-left: 300px;
+    margin-right: 20px;
+}
+.listfirstQQQ{
+    margin-left: 70px;
+}
+.tableQQ{
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-bottom: 1px solid #000;
+}
+
+.tablediv table{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.h2QQ{
+    width: 40%;
+    margin-left: 180px;
+}
+.td{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.regis{
+    /* border: 1px solid #000; */
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.regisQQ{
+    width: 40%;
+    /* border: 1px solid #000; */
+    float:left;
+    /* background: #000000; */
+    /* border: 1px solid #000; */
+}
+
+.rrr{
+    /* border: 1px solid #000; */
+    float:left;
+    margin-top: 20px;
+    /* border: 1px solid #000; */
+}
+label{
+    margin-bottom: 10px;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+.submit{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.browseQQ{
+    /* border: 1px solid #000; */
+    width: 80%;
+    float: left;
+    margin-left: 50px;
+}
+
+.browseQQQ .tdQ{
+    padding-top: 10px;
+}
+
+.we{
+    width:30%;
+    float:left;
+}
+.browseQQQ{
+    width: 30%;
+    float: left;
+    /*margin-left: 30px;*/
+    margin-top: 30px;
+    /*border: 1px solid black;*/
+}
+
+.QQQQ{
+    margin-top: 30px;
+    float: left;
+    padding-right: 15px;
+    border-right: 1px solid #000;
+}
+
+.QQQQQdiv{
+    width: 70%;
+    margin-top: 30px;
+    float:left;
+}
+
+.QQQQQdivQQ{
+    width: 75%;
+    margin-left: 100px;
+    /* border: 1px solid #000; */
+}
+
+.QQQQQdiv a{
+    margin-left: 50px;
+}
+
+.QQQQQdivQQ h2{
+    margin-bottom: -20px;
+    margin-left: 400px;
+}
+.QQQQQdivQQ a{
+    float:right;
+    margin-top: 70px;
+}
+.submitQQ{
+    margin-left: 195px;
+    margin-top: -20px;
+    font-size: 16px;
+}
+.iii{
+    margin-top: 20px;
+}
+.weeeee{
+    /* width: 80%; */
+    border: 1px solid #000;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.clear{
+    clear: both;
+}
+
+.qw{
+    width: 40%;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.submitt{
+    margin-left: 20px;
+}
+.yo{
+    padding-top:10px;
+    padding-bottom:10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.cry{
+    /*border: 1px solid #000;*/
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bg{
+    border-bottom: 1px solid #000;
+}
+
+.QQQQQdiv .open{
+    text-decoration: underline;
+
+}
+
+.openQQ{
+    color: green;
+    margin-left: 220px;
+    font-size: 18px;
+}
+.ppp{
+    /* border: 1px solid #000; */
+    margin-left: 620px;
+}
+
+.tdss{
+    text-align: center;
+    border-bottom:1px solid #000;
+}
+
+.EE{
+    margin-left: 45px;
+}
+
+.browseQQQ{
+    width: 80%;
+    margin-left: 120px;
+}
+
+.bbb{
+    float:left;
+    margin-right: 30px;
+    padding: 7px;
+    background-color: rgba(189, 189, 189, 0.562);
+}
+
+.ggg{
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.gg{
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
